@@ -7,7 +7,7 @@
 
 ((("mining and consensus", "purpose of")))The word "mining" is somewhat misleading. By evoking the extraction of precious metals, it focuses our attention on the reward for mining, the new bitcoin created in each block. Although mining is incentivized by this reward, the primary purpose of mining is not the reward or the generation of new coins. If you view mining only as the process by which coins are created, you are mistaking the means (incentives) as the goal of the process. Mining is the mechanism that underpins the decentralized clearinghouse, by which transactions are validated and cleared. Mining is the invention that makes bitcoin special, a decentralized security mechanism that is the basis for P2P digital cash.
 
-'채굴'이라는 용어는 다소 오해의 소지가 있다. 귀금속의 채굴 과정을 떠올려 보면 비트코인의 채굴은 보상금과 각 블록 내의 비트코인에만 집중하고 있다. 물론 보상금 때문에 채굴 작업이 활발하게 이루어지긴 하지만 채굴의 주된 목적은 보상금 혹은 새로운 코인의 생성이 아니다. 여러분이 채굴을 단지 코인을 생성하는 프로세스라고만 인식한다면 프로세스의 수단(인센티브)을 목적으로 잘못 판단하고 있는 셈이다. 채굴은 분산화된 클리어링하우스의 주요 프로세스로, 채굴에 의해서 거래를 검증하고 승인한다. 채굴은 비트코인을 특별하게 만들어 주는 발명품이자 P2P 기반 전자화폐의 근간이 되는, 분산화된 보안 메커니즘이다.
+'채굴'이라는 용어는 다소 오해의 소지가 있다. 귀금속의 채굴 과정을 떠올려 보면 비트코인의 채굴은 보상금과 각 블록 내의 비트코인에만 집중하고 있다. 물론 보상금 때문에 채굴 작업이 활발하게 이루어지긴 하지만 채굴의 주된 목적은 보상금 혹은 새로운 코인의 생성이 아니다. 여러분이 채굴을 단지 코인을 생성하는 프로세스라고만 인식한다면 프로세스의 수단(인센티브)을 목적으로 잘못 판단하고 있는 셈이다. 채굴은 분산화된 [red]#클리어링하우스#의 주요 프로세스로, 채굴에 의해서 거래를 검증하고 승인한다. 채굴은 비트코인을 특별하게 만들어 주는 발명품이자 P2P 기반 전자화폐의 근간이 되는, 분산화된 보안 메커니즘이다.
 (((ㅇㅇㅇ)))(((1234)))
 
 
