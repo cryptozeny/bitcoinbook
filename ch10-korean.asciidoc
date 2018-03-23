@@ -1,6 +1,6 @@
 [[mining]]
-== Mining and Consensus
-
+// == Mining and Consensus
+== 채굴 및 합의
 
 === Introduction
 
